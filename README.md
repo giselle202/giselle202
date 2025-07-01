@@ -34,6 +34,6 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/SEU_USUARIO)
-[![E-mail](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giselle-souza-1092892a6)
+[![E-mail](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](gi.souzas02@gmail.com)
 
